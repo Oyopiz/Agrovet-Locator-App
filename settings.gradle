@@ -1,0 +1,2 @@
+rootProject.name = "Agrovet"
+include ':app'
